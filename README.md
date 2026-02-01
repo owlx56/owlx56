@@ -1,4 +1,4 @@
-# Blackbird314
+# Owlx
 
 ## Who am I 🤔 ？
 
@@ -10,15 +10,15 @@ Love **Touhou Project☯** and doing some awful Codes.
 
 ## Skills 😎
 
-The Programming Language I used/am interested in: 
+The Programming Language I used/am interested in:
 
-[![Skills](https://skillicons.dev/icons?i=github,zig,rust,cpp,cuda)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=github,zig,rust,go,typescript)](https://skillicons.dev)
 
- - Zig (Interesting)
- - Rust (Modern, Safe and Fast)
- - C++ (Evil monster...)
- - Lean 4 (Mixture of Lisp and Haskell)
- - Python (A great and flexible script language)
+- Zig (Great truths are simple)
+- Rust (Modern, Safe and Fast)
+- Go (Easy to learn and use)
+- TypeScript (Web Ecossystem)
+<!--- Python (A great and flexible script language)-->
 
 <!-- ## My Zed Extensions 🧩 -->
 
