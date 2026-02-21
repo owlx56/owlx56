@@ -32,6 +32,6 @@ The Programming Language I used/am interested in:
 
 ## Contact 📞
 
-- HomePage: [https://io-oi.dev](https://io-oi.dev)
+- HomePage: [owlx.ink](https://owlx.ink/)
 
 ## Others 💡
