@@ -12,7 +12,7 @@ Love **Touhou Project☯** and doing some awful Codes.
 
 The Programming Language I used/am interested in:
 
-[![Skills](https://skillicons.dev/icons?i=github,zig,rust,go,typescript)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=rust,typescript,zig,go)](https://skillicons.dev)
 
 - Zig (Great truths are simple)
 - Rust (Modern, Safe and Fast)
